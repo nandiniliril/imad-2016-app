@@ -50,7 +50,7 @@ var articles = {
     'article-two' : {
         title: 'O Woman',
         heading: 'Poem by Rabindranath Tagore',
-        date: '28th September 2016',
+        date: '29th September 2016',
         content: `<p>O woman, you are not merely the
                 handiwork of God, but also of men;
                 these are ever endowing you with
@@ -77,7 +77,7 @@ var articles = {
     'article-three' : {
         title: 'Poem',
         heading: 'The Bazzars of Hyderabad',
-        date: '28th September 2016',
+        date: '26th September 2016',
         content: `<p>
                   What do you sell, 0 ye merchants?
 
