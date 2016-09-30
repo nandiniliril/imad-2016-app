@@ -19,6 +19,6 @@ button.onclick = function (){
         // Not done
     };
     //Make the request
-    request.open('GET', 'http://nandiniliril.imad.hasura-aoo.io/counter', true);
+    request.open('GET', 'http://nandiniliril.imad.hasura-app.io/counter', true);
     request.send(null);
 };
